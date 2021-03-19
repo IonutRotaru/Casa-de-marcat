@@ -1,0 +1,166 @@
+time: 0
+Waiting clients:[(0,4,2), (1,30,2), (2,5,3), (3,7,2)]
+casa1:closed
+casa2:closed
+
+time: 1
+Waiting clients:[(0,4,2), (1,30,2), (2,5,3), (3,7,2)]
+casa1:closed
+casa2:closed
+
+time: 2
+Waiting clients:[(0,4,2), (1,30,2), (2,5,3), (3,7,2)]
+casa1:closed
+casa2:closed
+
+time: 3
+Waiting clients:[(0,4,2), (1,30,2), (2,5,3), (3,7,2)]
+casa1:closed
+casa2:closed
+
+time: 4
+Waiting clients:[(1,30,2), (2,5,3), (3,7,2)]
+casa1: [(0,4,2)]
+casa2:closed
+
+time: 5
+Waiting clients:[(1,30,2), (3,7,2)]
+casa1: [(0,4,1)]
+casa2: [(2,5,3)]
+
+time: 6
+Waiting clients:[(1,30,2), (3,7,2)]
+casa1:closed
+casa2: [(2,5,2)]
+
+time: 7
+Waiting clients:[(1,30,2)]
+casa1: [(3,7,2)]
+casa2: [(2,5,1)]
+
+time: 8
+Waiting clients:[(1,30,2)]
+casa1: [(3,7,1)]
+casa2:closed
+
+time: 9
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 10
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 11
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 12
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 13
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 14
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 15
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 16
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 17
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 18
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 19
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 20
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 21
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 22
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 23
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 24
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 25
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 26
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 27
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 28
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 29
+Waiting clients:[(1,30,2)]
+casa1:closed
+casa2:closed
+
+time: 30
+Waiting clients:[]
+casa1: [(1,30,2)]
+casa2:closed
+
+time: 31
+Waiting clients:[]
+casa1: [(1,30,1)]
+casa2:closed
+
+time: 32
+Waiting clients:[]
+casa1:closed
+casa2:closed
+
+timp mediu de asteptare: 2.25
